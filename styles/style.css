@@ -49,9 +49,18 @@ a{
     font-size: 16px;
     margin-right: 10px;
 }
+.logo-item{
+    display: flex;
+    column-gap: 10px;
+
+}
 .menu-logo{
     width: 40px;
     position: relative;
+}
+.logo-text{
+    font-size: 30px;
+    color: whitesmoke;
 }
 .menu-item{
     display: flex;
